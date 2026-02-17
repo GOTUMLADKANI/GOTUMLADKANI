@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gotumladkani&label=Profile%20views&color=0e75b6&style=flat" alt="gotumladkani" /> </p>
 
-- 🌱 I’m currently learning **Data structures**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 📫 How to reach me **gotumladkani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gotum kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gotum kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gotum-kumar-14bb9a308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gotum kumar" height="30" width="40" /></a>
 <a href="https://fb.com/gotum ladkani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gotum ladkani" height="30" width="40" /></a>
 <a href="https://instagram.com/gotam ladkani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gotam ladkani" height="30" width="40" /></a>
 </p>
