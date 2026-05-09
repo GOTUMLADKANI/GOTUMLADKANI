@@ -71,5 +71,7 @@
 
 - Software Engineering student (backend + databases)
 - Building MERN web apps and Flutter mobile apps
-- Always learning and improving system design skills
+- Passionate about REST APIs, databases, and scalable architecture
+- Working on clean architecture, authentication patterns, and efficient SQL/NoSQL data models
+
 
